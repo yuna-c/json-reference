@@ -1,2 +1,2 @@
 # json
-https://yuna-c.github.io/json/
+https://yuna-c.github.io/json-reference /
